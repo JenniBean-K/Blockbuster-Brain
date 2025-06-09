@@ -169,6 +169,13 @@ This project was developed as part of the University of Denver Data Science prog
 
 ---
 
+## Demo & Presentation:
+
+- Check out our interatvie presentation
+
+[ Google Slides: Blockbuster Brain Overview](https://docs.google.com/presentation/d/19u8yypHFzVjgXTVnEGOLNZJPmewbsDuXw5vsQ5kRXFE/edit?slide=id.g3618f966ddb_1_28#slide=id.g3618f966ddb_1_28)
+
+
 ## Resources
 
 - [TMDB API Documentation](https://developers.themoviedb.org/3)  
