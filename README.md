@@ -90,10 +90,10 @@ This repository contains two main components:
 <img src="images/budget_revenue.png" width="600">
 
 #### Genre Distribution
-<img src="images/genre_distribution.png" width="500">
+<img src="images/revenue_dist_by_genre.png" width="500">
 
-#### Popularity vs Vote Average
-<img src="images/popularity_vs_rating.png" width="500">
+#### Top 5 Feature Importance
+<img src="images/top_5_feature_importance.png" width="500">
 
 ---
 
