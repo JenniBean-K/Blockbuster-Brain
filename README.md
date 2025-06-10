@@ -87,13 +87,13 @@ This repository contains two main components:
 ### Exploratory Visualizations
 
 #### Budget vs Revenue
-<img src="images/budget_revenue.png" width="600">
+<img src="Images/budget_revenue.png" width="600">
 
 #### Genre Distribution
-<img src="images/revenue_dist_by_genre.png" width="500">
+<img src="Images/revenue_dist_by_genre.png" width="500">
 
 #### Top 5 Feature Importance
-<img src="images/top_5_feature_importance.png" width="500">
+<img src="Images/top_5_feature_importance.png" width="500">
 
 ---
 
@@ -112,7 +112,7 @@ This repository contains two main components:
 ---
 
 ## Model Results
-<img src="images/rf_regression.png" width="500">>
+<img src="Images/rf_regression.png" width="500">>
 
 | Model               | RMSE (Millions) | R² Score |
 |--------------------|------------------|----------|
